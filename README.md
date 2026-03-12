@@ -1,9 +1,20 @@
-# Hi 👋 I'm a Full Stack Developer
+# Hi there👋
 
-I'm currently studying **Software Engineering** and working as a **Full Stack Developer at Andersson Consultores**.
+## 👨‍💻 About Me
 
-I have experience building **automation solutions**, developing backend systems with **Supabase and APIs**, and creating frontend applications using **React**.
+* Software Engineering student
+* Full Stack Developer at **Andersson Consultores**
+* Passionate about building useful tools and improving through continuous learning
 
-I've also worked on **web development projects**, and I'm particularly interested in the **SaaS ecosystem** as a path for my professional growth.
+## ⚙️ Experience
 
-Always learning and improving 🚀
+* Development of **automation solutions**
+* Backend development using **Supabase** and **API integrations**
+* Frontend development with **React**
+* Experience building **websites and web platforms**
+
+## 🚀 Interests
+
+I'm especially interested in the **SaaS ecosystem** and building scalable products.
+My goal is to keep improving as a developer by learning new technologies and creating impactful solutions.
+
